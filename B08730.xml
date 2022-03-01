@@ -1,0 +1,197 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings Majesties proclamation concerning the carriage of his subjects during the late troubles.</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08730</idno>
+            <idno type="STC">Wing C3264</idno>
+            <idno type="STC">ESTC R171268</idno>
+            <idno type="EEBO-CITATION">61296927</idno>
+            <idno type="OCLC">ocm 61296927</idno>
+            <idno type="VID">180503</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08730)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180503)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2831:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings Majesties proclamation concerning the carriage of his subjects during the late troubles.</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+                  <author>Primrose, Archibald, Sir, 1616-1679.</author>
+                  <author>Lauderdale, John Maitland, Duke of, 1616-1682.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Evan Tyler,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Anno Dom. 1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed by: "A. Primerose, Cls. Reg". and "By His Majesties command, Lauderdaile."</note>
+                  <note>At end of text: "Given at Our Court at Whitehall the twelfth day of October, in the twelfth year of Our Reign, 1660."</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+               <term>Great Britain --  Politics and government --  1660-1688 --  Sources.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:180503:1" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+               </figure>The Kings Majeſties PROCLAMATION, Concerning the
+Carriage of His Subjects, during the late Troubles.</head>
+            <opener>
+               <signed>CHARLES R.</signed>
+            </opener>
+            <opener>
+               <signed>
+                  <hi>
+                     <seg rend="decorInit">C</seg>HARLES,</hi> by the grace of GOD, King of <hi>Scotland,
+England, France</hi> and <hi>Ireland,</hi> Defender of the Faith,</signed> 
+               <salute>To all, and
+ſundry Our Subjects, whom theſe do, or may concern, greeting.</salute>
+            </opener>
+            <p>We being now,
+by the ſpecial bleſsing of Almighty GOD, returned to the exerciſe of Our
+Royal Power and Government of Our Kingdoms; And, being deſirous to improve
+this Mercy to the beſt advantage of Our People; Have thought fit to call a
+Meeting of Our Eſtates of Parliament of this Our ancient Kingdom of
+<hi>Scotland,</hi> as a ready meane after ſo long troubles, for ſettling a
+firm and laſting Peace, for confirming the juſt Liberties and Priviledges
+of Our Subjects, for vindicating of Our Honour, and aſſerting Our ancient
+Royal Prerogative, by which alone the Liberties of Our People can be
+preſerved: And as We do herein relye upon the Loyalty, Prudence and Care of
+Our Parliament; So We do abſolutely leave and commit to them the Trying and
+Iudging of the carriage of Our Subjects during theſe troubles. Concerning
+which, We will from henceforth receive Information and Addreſſes only from
+Our Parliament, or Committee of Eſtates; to whom, in the mean time, We have
+recommended the preparing and ordering of that Affair, and to whom alone any of
+Our People that are intereſſed, may freely, and canonly make their
+applications; And which We have thought fit hereby to make known to all Our
+publick Miniſtirs and Subjects, whom it doth concern, and who may now finde,
+that We have hereby given an undoubted evidence of Our affection to, and
+confidence in, Our People, by making themſelves judges, of what may concern
+both Our and their own intereſts: And further, We do hereby aſſure them,
+That Our own Honour, and the Honour of that Our ancient Kingdom being vindicat,
+and the ancient Prerogative of the Crown being aſſerted, We will grant
+ſuch a full and free Pardon and Act of Indempnity, as ſhall witneſs,
+there is nothing We are more deſirous of, then that Our People may be
+bleſſed with the abundance of Happineſs, Peace and Plenty, under Our
+Government. And, We do hereby command you Our Heraulds, Purſevants and
+Meſſengers of Arms, to paſſe and make publication hereof at the Mercat
+Croſſe of <hi>Edinburgh,</hi> and other places medfull; And in Our Name and
+Authority to com<g ref="char:EOLhyphen"/>mand, charge and inhibite all, and ſundry our Subjects of
+<hi>Scotland,</hi> That none of them preſume to go out of the Kingdom without
+Licence of Our Committee of Eſtates, under the pain to be eſteemed and
+purſued as contem<g ref="char:EOLhyphen"/>ners of Our Authority and Government.</p>
+            <closer>
+               <dateline>Given at Our Court at <hi>Whitehall</hi>
+                  <date>the twelfth day of <hi>October,</hi> in the twelfth year of
+Our Reign, <hi>1660.</hi>
+                  </date>
+               </dateline> 
+               <signed>
+                  <hi>Record. <hi>A.
+PRIMEROSE,</hi> Cls. Reg.</hi>
+               </signed>
+               <signed>
+                  <hi>By His Majeſties Command,
+<hi>LA<g ref="char:V">Ʋ</g>DERDAILE.</hi>
+                  </hi>
+               </signed>
+            </closer>
+            <closer>GOD SAVE THE KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Printed by <hi>Evan Tyler,</hi> Printer to
+the Kings moſt Excellent Majeſty, <hi>Anno Domini,</hi> 1660.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
